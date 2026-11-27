@@ -1,4 +1,4 @@
-# pi-loop-guard
+# @philong/pi-loop-guard
 
 A [pi](https://pi.dev) extension for models that get stuck calling the same tool with the same arguments.
 
@@ -13,7 +13,7 @@ A [pi](https://pi.dev) extension for models that get stuck calling the same tool
 ## Install
 
 ```sh
-pi install ~/workspace/loop-guard
+pi install git:github.com/philong/pi-loop-guard
 ```
 
 ## Settings
